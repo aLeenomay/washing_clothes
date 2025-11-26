@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/washing_clothes/static/css/main.3156eac4.css",
+    "main.js": "/washing_clothes/static/js/main.3ca5604f.js",
+    "index.html": "/washing_clothes/index.html",
+    "main.3156eac4.css.map": "/washing_clothes/static/css/main.3156eac4.css.map",
+    "main.3ca5604f.js.map": "/washing_clothes/static/js/main.3ca5604f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3156eac4.css",
+    "static/js/main.3ca5604f.js"
+  ]
+}
